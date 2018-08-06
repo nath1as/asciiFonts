@@ -35,7 +35,6 @@ pagga.tlf
 patorjkscheese.flf
 Previews
 rammstein.flf
-README.md
 rebel.tlf
 rectangles.flf
 rounded.flf
