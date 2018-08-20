@@ -1,5 +1,5 @@
 # 3d.flf
-![3d] (Previews/3d.png)
+![3d](Previews/3d.png)
 
 
 # amcneko.flf
