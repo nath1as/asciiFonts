@@ -1,5 +1,10 @@
   # Font previews
 
+  ## Example
+
+    ```bash
+    toilet -f 3d.flf -d Ascii/asciifonts/ "Hello World"
+    ```
 
   ## 3d.flf
   ![3d](Previews/3d.png)
